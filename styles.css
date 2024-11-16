@@ -44,7 +44,7 @@ main {
 }  
 
 .content {  
-    flex: 1; /* 使得内容区域填充剩余空间 */   
+    flex: 1;
     padding: 20px;  
 }
   
